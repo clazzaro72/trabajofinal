@@ -1,7 +1,7 @@
 # Alumno: Carlos A.Lazzarotto
 # comision: 60085
 # para ingrsar al admin:
-# usuario: coder
+# usuario: admin
 # contraseña: 1234
 
 # MECANICA Simon
@@ -18,7 +18,6 @@ La pagina Mecanica Sergio Ariel fue desarrollada utilizando las siguientes tecno
 
 ## Características
 - Organizacion y publicidad de la empresa. Uno de los fines es que llegue a mas personas.
-- esta compuesto por 5 nab-bar para su mejor exploracion. 
 - Experiencia de uso fácil y rápida.
 
 ## Funcionalidades
