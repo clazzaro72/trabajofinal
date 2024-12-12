@@ -14,7 +14,7 @@ La pagina Mecanica Sergio Ariel fue desarrollada utilizando las siguientes tecno
 - DJANGO
 - GIT
 - DB Browser(SQLite)
-- CANVA
+
 
 ## Características
 - Organizacion y publicidad de la empresa. Uno de los fines es que llegue a mas personas.
@@ -43,13 +43,6 @@ Permite editar y eliminar detalles de patentes.
 ## 4-Problemas de Auto
 Facilita el registro de problemas específicos relacionados con los automóviles atendidos en el taller.
 Permite la gestión de problemas, incluyendo su edición y eliminación.
-## 5-Superadministrador
-Acceso reservado para el superadministrador del sistema.
-Permite gestionar usuarios, roles y permisos para garantizar la seguridad y el control del sistema.
-Seguridad
-El sistema cuenta con un área de superadministrador que garantiza la seguridad y la administración de usuarios.
-Se implementan medidas de seguridad para proteger los datos confidenciales de los clientes y los detalles de los vehículos.
-Este proyecto ha sido desarrollado con el objetivo de facilitar la gestión de un taller mecánico, permitiendo un registro organizado y seguro de clientes, automóviles y problemas relacionados con los vehículos. El superadministrador garantiza la seguridad y el control total del sistema.
 
 
 
