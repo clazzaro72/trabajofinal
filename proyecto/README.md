@@ -1,19 +1,17 @@
-# Alumno: Miguel Amarilla
-# comision: 55630
+# Alumno: Carlos A.Lazzarotto
+# comision: 60085
 # para ingrsar al admin:
-# usuario: admin
+# usuario: coder
 # contraseña: 1234
-# enlace del video: https://www.youtube.com/watch?v=SzhKRSvdpL4
 
-# MECANICA SERGIO ARIEL
-Bienvenido/a a Mecanica Sergio Ariel, es el proyecto final del curso de Python, el cual consta de  una pagina en línea que se dedica a un Taller mecanico.
+# MECANICA Simon
+Bienvenido/a a Mecanica Simon, es el proyecto final del curso de Python, el cual consta de  una pagina en línea que se dedica a un Taller mecanico.
 
 ## Tecnologías utilizadas
 La pagina Mecanica Sergio Ariel fue desarrollada utilizando las siguientes tecnologías:
 - VSC
 - PYTHON
 - DJANGO
-- BOOTSTRAP
 - GIT
 - DB Browser(SQLite)
 - CANVA
@@ -22,8 +20,6 @@ La pagina Mecanica Sergio Ariel fue desarrollada utilizando las siguientes tecno
 - Organizacion y publicidad de la empresa. Uno de los fines es que llegue a mas personas.
 - esta compuesto por 5 nab-bar para su mejor exploracion. 
 - Experiencia de uso fácil y rápida.
-- Integración con Django y DB Browser para una gestión eficiente de los datos.
-- Navegación fluida, dinámica, Diseño responsive y atractivo utilizando Bootstrap.
 
 ## Funcionalidades
 La página web se ha desarrollado con el propósito de brindar un sistema de gestión eficiente y seguro para el taller mecánico,
@@ -56,13 +52,5 @@ El sistema cuenta con un área de superadministrador que garantiza la seguridad 
 Se implementan medidas de seguridad para proteger los datos confidenciales de los clientes y los detalles de los vehículos.
 Este proyecto ha sido desarrollado con el objetivo de facilitar la gestión de un taller mecánico, permitiendo un registro organizado y seguro de clientes, automóviles y problemas relacionados con los vehículos. El superadministrador garantiza la seguridad y el control total del sistema.
 
-## Desarrolladores
-Mecanica Sergio Ariel fue desarrollada por:
-- Miguel Amarilla
-- comision: 55630
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
-para ingrsar al admin
-usuario: admin
-contraseña: 1234
+
